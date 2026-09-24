@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cleocadio
 - 👀 I’m interested in ...Front-end 
-- 🌱 I’m currently learning ...VueJS  
+- 🌱 I’m currently learning ...so many things  
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
